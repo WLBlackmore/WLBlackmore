@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
-- Full-stack + data: **Python, React, FastAPI, SQLite, VueJS, Spring Boot, Java*  
+- Full-stack + data: **Python, React, FastAPI, SQLite, VueJS, Spring Boot, Java** 
 - Geospatial + visualization: **Mapbox GL, D3.js**, routing/analytics  
 - Document AI & pipelines: **vision-language models** (Docling, Table Transformer), OpenAI API, Pandas  
 
