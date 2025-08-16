@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
-- Full-stack + data: **Python, React, FastAPI, SQLite, VueJS, Spring Boot, Java** 
+- Full-stack + data: **Python, React, FastAPI, SQLite, VueJS, Spring Boot, Java**  
 - Geospatial + visualization: **Mapbox GL, D3.js**, routing/analytics  
 - Document AI & pipelines: **vision-language models** (Docling, Table Transformer), OpenAI API, Pandas  
 
@@ -15,15 +15,18 @@
 
 ## 💼 Experience
 
-### 🧠 AI Integration Engineer Intern — *HotelMap* (London, Remote)  
+### 🧠 AI Integration Engineer Intern — *HotelMap* | London, UK (Remote)  
+**May 2025 – Aug. 2025**  
 *Experimental R&D role leveraging AI and backend systems for large-scale event and hotel data.*  
 **Technologies:** FastAPI, SQLite, Vision-Language Models, Mapbox, Simulated Annealing, ReactJS, Python  
 
-### ⚡ Special Projects Developer — *HotelMap*  
+### ⚡ Special Projects Developer — *HotelMap* | London, UK (Remote)  
+**Feb. 2025 – Apr. 2025**  
 *Exploring AI-driven experimental data visualization for hotel booking and market analysis.*  
 **Technologies:** ReactJS, D3.js  
 
-### 🔒 Full Stack Developer Co-op — *Versaterm*  
+### 🔒 Full Stack Developer Co-op — *Versaterm* | Ottawa, ON  
+**May 2024 – Aug. 2024**  
 *Worked on mission-critical 911 emergency response software used by 70+ agencies across North America.*  
 **Technologies:** C# .NET, Genero BDL, Bash, SQL, Redis, Linux CLI, Jira, Agile  
 
